@@ -3,8 +3,8 @@ Project Name: Before it's too late
 Project Idea:“Why Do Egyptians Wait Until It’s Too Late to See a Doctor?”
 We’ll highlight, in a realistic and humorous way, how people often ignore their symptoms, ask neighbors for advice, or go straight to the pharmacist for medication instead of seeing a doctor. By the time these solutions don’t work and the condition gets worse, they finally seek medical help—while some conditions require immediate attention and could have been treated more easily if diagnosed early.
 Team Members: Menna Abd Elmonged, Vivian Magdy, Aboelyazed Omara, Arwa Ahmed, Basant Tarek, Omnia Shaker
-Work plan:
-Roles & Responsibilities:
-KPIs:
+Work plan: 1. Script Development: Writing the video script and dividing it into seven scenes / 2. Scene Planning: Breaking each scene into short clips, approximately 6 seconds each / 3. Character Design: Creating character sheets to maintain consistent character appearances throughout the film / 4. AI Scene Generation: Generating the video clips using Google Flow / 5. Video Editing: Combining and editing all generated clips using CapCut / 6. Final Presentation: Preparing a presentation explaining the project idea, workflow, tools, and production process. 
+Roles & Responsibilities:Member 1 – Scriptwriting & Video Editing: Developed the video script, organized the seven scenes, and edited and assembled the final video using CapCut / Member 2 – AI Scene Generation: Generated assigned video scenes using Google Flow / Member 3 – AI Scene Generation: Generated assigned video scenes using Google Flow / Member 4 – AI Scene Generation: Generated assigned video scenes using Google Flow / Member 5 – AI Scene Generation: Generated assigned video scenes using Google Flow / Member 6 – AI Scene Generation: Generated assigned video scenes using Google Flow.
+KPIs: Completion of all seven planned scenes / Consistency of characters throughout the video / Quality and coherence of AI-generated clips / Successful integration of all clips into one cinematic film / Completion of the final video and presentation / Completion of assigned tasks within the project timeline. 
 Instructor:Jon Youssef
 Project files: https://drive.google.com/drive/folders/1FVfnwCrRzipXe4xz8BtWsM-Lq-edZnPm?usp=sharing 
